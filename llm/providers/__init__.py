@@ -1,0 +1,1 @@
+"""Concrete provider adapters. Each adapter exposes the same small provider contract."""
