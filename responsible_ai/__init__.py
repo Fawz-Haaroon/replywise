@@ -1,0 +1,1 @@
+"""Deterministic review checks that remain independent from UI and providers."""
